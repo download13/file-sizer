@@ -1,0 +1,13 @@
+{
+  "name": "@download13/file-sizer",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "repository": "",
+  "author": "Erin Dachtler <download333@gmail.com>",
+  "dependencies": {
+    "busboy": "^0.2.13",
+    "express": "^4.14.0",
+    "stream-counter": "^1.0.0"
+  }
+}
